@@ -1,5 +1,5 @@
 const cards = [{
-	rank: 'queen', suit: 'hearts', cardImage: 'images/queen-of-hearts.png' }
+	rank: 'queen', suit: 'hearts', cardImage: 'images/queen-of-hearts.png' },
 {
 	rank: 'queen',
 	suit: 'diamonds',
