@@ -2,22 +2,22 @@ const cards = [
 {
 	rank: "queen",
 	suit: "hearts",
-	cardImage: "images/queen-of-hearts.png"
+	cardImage: "https://res.cloudinary.com/df6sigxz7/image/upload/v1583166627/queen-of-hearts_y733gt.png"
 },
 {
 	rank: "queen",
 	suit: "diamonds",
-	cardImage: "images/queen-of-diamonds.png"
+	cardImage: "https://res.cloudinary.com/df6sigxz7/image/upload/v1583166627/queen-of-diamonds_xl1brj.png"
 },
 {
 	rank: "king",
 	suit: "hearts",
-	cardImage: "images/king-of-hearts.png"
+	cardImage: "https://res.cloudinary.com/df6sigxz7/image/upload/v1583166627/king-of-hearts_oln0nc.png"
 },
 {
 	rank: "king",
 	suit: "diamonds",
-	cardImage: "images/king-of-diamonds.png"
+	cardImage: "https://res.cloudinary.com/df6sigxz7/image/upload/v1583166627/king-of-diamonds_bh3mty.png"
 },
 ];
 const cardsInPlay = [];
